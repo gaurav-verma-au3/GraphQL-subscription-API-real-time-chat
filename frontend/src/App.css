@@ -1,0 +1,7 @@
+.message-box::-webkit-scrollbar {
+  display: none;
+}
+
+.alert {
+  display: inline-block;
+}
