@@ -10,7 +10,7 @@
     "graphql-tag": "^2.10.3",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
-    "react-scripts": "3.4.1",
+    "react-scripts": "5.0.1",
     "subscriptions-transport-ws": "^0.9.16",
     "urql": "^1.9.6"
   },
